@@ -16,8 +16,9 @@ body,
   height: 100%;
 }
 
-.nmh {
+.nm {
   min-height: 0;
+  min-width: 0;
 }
 
 .flex {
